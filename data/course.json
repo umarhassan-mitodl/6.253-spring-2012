@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "15523a19-d4f9-2795-e3a3-5753d239b10e",
+  "instructors": {
+    "content": [
+      "86373a6c-9603-bcb5-5577-f535e38290c3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "65fa6b14-be85-06cc-eb70-bb2c4d9d11a3",
+    "website": "6-253-convex-analysis-and-optimization-spring-2012"
+  },
+  "course_title": "Convex Analysis and Optimization",
+  "course_description": "This course will focus on fundamental subjects in convexity, duality, and convex optimization algorithms. The aim is to develop the core analytical and algorithmic issues of continuous optimization, duality, and saddle point theory using a handful of unifying principles that can be easily visualized and readily understood.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.253",
+  "course_image_thumbnail": {
+    "content": "74d5a732-d5d9-8c82-615b-8dcd719b593e",
+    "website": "6-253-convex-analysis-and-optimization-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "d3d99529-017b-4e4e-b418-f5f3b8ca5741",
+  "site_short_id": "6.253-spring-2012",
+  "site_url_path": "courses/6-253-convex-analysis-and-optimization-spring-2012",
+  "title": "Course Metadata"
+}
