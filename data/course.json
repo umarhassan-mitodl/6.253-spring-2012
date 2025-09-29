@@ -27,6 +27,7 @@
     "website": "6-253-convex-analysis-and-optimization-spring-2012"
   },
   "course_title": "Convex Analysis and Optimization",
+  "hide_download": true,
   "course_description": "This course will focus on fundamental subjects in convexity, duality, and convex optimization algorithms. The aim is to develop the core analytical and algorithmic issues of continuous optimization, duality, and saddle point theory using a handful of unifying principles that can be easily visualized and readily understood.\n",
   "department_numbers": [
     "6"
@@ -37,6 +38,7 @@
     "content": "74d5a732-d5d9-8c82-615b-8dcd719b593e",
     "website": "6-253-convex-analysis-and-optimization-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

@@ -5,6 +5,8 @@ description: This resource contains solutions for the problem statements related
 file: /courses/6-253-convex-analysis-and-optimization-spring-2012/1c82f0600edfc8ab4da06362882b5d7b_MIT6_253S12_hw01_sol.pdf
 file_size: 211540
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

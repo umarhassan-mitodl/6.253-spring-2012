@@ -4,6 +4,8 @@ description: This resource contains information regarding 2012 midterm with solu
 file: /courses/6-253-convex-analysis-and-optimization-spring-2012/772b8b0aace4b5eaa1397b2da8adad87_MIT6_253S12_midterm_sol.pdf
 file_size: 90469
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

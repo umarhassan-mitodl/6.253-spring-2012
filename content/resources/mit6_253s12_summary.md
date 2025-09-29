@@ -4,6 +4,8 @@ description: This resource contains information regarding summary.
 file: /courses/6-253-convex-analysis-and-optimization-spring-2012/db7bde2cd43e8dbaba11f6911311b87c_MIT6_253S12_summary.pdf
 file_size: 448647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

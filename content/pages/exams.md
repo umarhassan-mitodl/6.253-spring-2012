@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides midterm exams with solutions for two different
   semesters of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
